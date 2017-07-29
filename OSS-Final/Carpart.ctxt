@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Carpart()
+comment1.params=itemId\ itemName\ itemPrice\ itemDesc\ quantity\ category
+comment1.target=Carpart(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int,\ CarpartType)
+comment2.params=num
+comment2.target=void\ setQuantity(int)
+comment3.params=name
+comment3.target=void\ setCategory(CarpartType)
+comment4.params=
+comment4.target=int\ getQuantity()
+comment5.params=
+comment5.target=CarpartType\ getCategory()
+numComments=6

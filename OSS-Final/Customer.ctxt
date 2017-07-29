@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Customer()
+comment1.params=id\ userName\ password\ phone\ email\ type\ address\ isPremium
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ CustType,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=
+comment3.target=boolean\ isIsPremium()
+comment4.params=address
+comment4.target=void\ setAddress(java.lang.String)
+comment5.params=isPremium
+comment5.target=void\ setIsPremium(boolean)
+numComments=6

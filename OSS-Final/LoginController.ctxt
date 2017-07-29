@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=conCtrl
+comment0.target=LoginController(ContainerController)
+comment1.params=name\ password
+comment1.target=User\ validateUser(java.lang.String,\ java.lang.String)
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=conCtrl\ viewCtrl\ cart
+comment0.target=ConfirmationView(ContainerController,\ ViewController,\ Cart)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=windowEvent
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=java.lang.String\ calculatePayment()
+comment3.text=\r\n\ This\ method\ returns\ how\ much\ the\ user\ should\ pay\ for\ the\ order.\r\n
+numComments=4

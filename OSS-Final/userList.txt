@@ -1,0 +1,5 @@
+Customer,c1,Luyang,123,0451223994,luyang@gmail.com,Broody St,false
+Customer,c2,Jiaqi,321,0451123994,jiaqi@gmail.com,Alfield St,true
+Mechanic,m1,James,111,041223233,james@gmail.com
+Mechanic,m2,Sue,111,043234522,sue@gmail.com
+Admin,admin,admin,admin,042134534,admin@gmail.com

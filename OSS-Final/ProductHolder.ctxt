@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=info\ cart\ conCtrl
+comment0.target=ProductHolder(Carpart,\ Cart,\ ContainerController)
+comment1.params=
+comment1.target=java.awt.Dimension\ getPreferredSize()
+comment1.text=\r\n\ Indicate\ the\ preferred\ size\ of\ the\ component.\r\n
+comment2.params=
+comment2.target=void\ refresh()
+comment2.text=\r\n\ refresh\ the\ quantity\ displayed\ based\ on\ the\ actual\ value.\r\n
+numComments=3

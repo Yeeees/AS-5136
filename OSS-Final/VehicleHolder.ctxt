@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=info
+comment0.target=VehicleHolder(Vehicle)
+comment1.params=
+comment1.target=java.awt.Dimension\ getPreferredSize()
+comment1.text=\r\n\ Indicate\ the\ preferred\ size\ of\ the\ component.\r\n
+numComments=2

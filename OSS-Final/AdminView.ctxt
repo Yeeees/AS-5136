@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=conCtrl\ viewCtrl
+comment0.target=AdminView(ContainerController,\ ViewController)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=windowEvent
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=3

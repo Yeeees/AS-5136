@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CartItem()
+comment1.params=carpart\ amount
+comment1.target=CartItem(Carpart,\ int)
+comment2.params=
+comment2.target=Carpart\ getCarpart()
+comment3.params=
+comment3.target=int\ getAmount()
+comment4.params=carpart
+comment4.target=void\ setCarpart(Carpart)
+comment5.params=amount
+comment5.target=void\ setAmount(int)
+numComments=6

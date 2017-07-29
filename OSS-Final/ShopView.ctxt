@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=conCtrl\ viewCtrl\ newCart
+comment0.target=ShopView(ContainerController,\ ViewController,\ Cart)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=windowEvent
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ refreshShopView()
+comment3.text=\r\n\ This\ method\ is\ used\ to\ refresh\ all\ carpart\ components\ in\ the\ panel\ list\ every\ time\ after\ the\ \r\n\ shop\ view\ is\ reacttivated.\r\n
+comment4.params=newCart
+comment4.target=void\ setNewCart(Cart)
+comment4.text=\r\n\ Used\ to\ create\ a\ new\ cart\ after\ current\ used\ has\ checked\ out.\r\n
+numComments=5

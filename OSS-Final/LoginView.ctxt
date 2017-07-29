@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=conCtrl\ viewCtrl
+comment0.target=LoginView(ContainerController,\ ViewController)
+comment1.params=
+comment1.target=void\ display()
+comment2.params=windowEvent
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ toShopView()
+comment3.text=\r\n\ With\ help\ from\ login\ controller,\ this\ view\ will\ leads\ user\ to\ different\ step\ view\ based\ on\ their\ types.\r\n\ if\ the\ user\ is\ a\ customer,\ create\ a\ new\ cart\ for\ him.\r\n
+numComments=4

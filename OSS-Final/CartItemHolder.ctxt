@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=orderLine\ conCtrl\ cart\ items
+comment0.target=CartItemHolder(CartItem,\ ContainerController,\ Cart,\ javax.swing.JPanel)
+comment1.params=
+comment1.target=java.awt.Dimension\ getPreferredSize()
+comment1.text=\r\n\ Indicate\ the\ preferred\ size\ of\ the\ component.\r\n
+numComments=2

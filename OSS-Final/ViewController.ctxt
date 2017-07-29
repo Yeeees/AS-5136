@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=view
+comment0.target=void\ setCurView(View)
+comment1.params=con
+comment1.target=void\ initOSS(ContainerController)
+comment1.text=\r\n\ This\ method\ is\ used\ in\ the\ initiation\ of\ the\ system,\ \r\n\ the\ Login\ view\ will\ be\ display\ and\ waits\ for\ user\ inputing\ username\ and\ password.\r\n
+comment2.params=type\ isParentKept\ cart
+comment2.target=void\ createView(ViewType,\ boolean,\ Cart)
+comment2.text=\r\n\ This\ method\ is\ used\ by\ other\ views\ to\ create\ another\ view\ based\ on\ demands.\r\n
+comment3.params=tempView\ isParentKept
+comment3.target=void\ handleNewViewAndCurView(View,\ boolean)
+comment4.params=isParentKept
+comment4.target=void\ createLogin(boolean)
+comment5.params=isParentKept\ cart
+comment5.target=void\ createShop(boolean,\ Cart)
+comment6.params=isParentKept\ cart
+comment6.target=void\ createCart(boolean,\ Cart)
+comment7.params=isParentKept\ cart
+comment7.target=void\ createConfirm(boolean,\ Cart)
+comment8.params=isParentKept
+comment8.target=void\ createAdmin(boolean)
+comment9.params=isParentKept
+comment9.target=void\ createMechanic(boolean)
+numComments=10

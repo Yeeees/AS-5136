@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Order()
+comment1.params=customer\ madeDate
+comment1.target=Order(Customer,\ java.util.Date)
+comment2.params=
+comment2.target=Customer\ getCustomer()
+comment3.params=
+comment3.target=java.util.Date\ getMadeDate()
+comment4.params=customer
+comment4.target=void\ setCustomer(Customer)
+comment5.params=madeDate
+comment5.target=void\ setMadeDate(java.util.Date)
+numComments=6

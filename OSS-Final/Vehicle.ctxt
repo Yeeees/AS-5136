@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vehicle()
+comment1.params=itemId\ itemName\ itemPrice\ itemDesc
+comment1.target=Vehicle(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+numComments=2
